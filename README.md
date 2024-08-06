@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhruth-in
+- 👋 Hi, I’m Dhruthi N
 - 👀 I’m interested in Tech (in general)
 - 🌱 I’m currently learning Android Dev.
 - 💞️ I’m looking to collaborate on Java projects.
